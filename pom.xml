@@ -51,7 +51,7 @@
 		<java.version>11</java.version>
 
 		<springdoc.version>1.5.6</springdoc.version>
-		<soapui.version>5.6.0</soapui.version>
+		<soapui.version>5.7.2</soapui.version>
 		<swagger-parser.version>2.0.24</swagger-parser.version>
 	</properties>
 
